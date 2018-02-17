@@ -174,8 +174,17 @@ function idea_tree_meta_callback(){
 			<div class="meta-td">
 				Price
 			</div>
+			<div class="meta-td">
+				<input type="text" name="property-id" value=""/>
+			</div>
 			<div>Location</div>
+			<div class="meta-td">
+				<input type="text" name="property-id" value=""/>
+			</div>
 			<div>Date of Construction</div>
+			<div class="meta-td">
+				<input type="text" name="property-id" value=""/>
+			</div>
 		</div>
 	</div>
 
